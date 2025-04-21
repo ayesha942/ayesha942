@@ -1,79 +1,77 @@
-<h1 align="center">Hey 👋, I'm Ayesha Munir</h1>
-<h3 align="center">Full Stack Developer | Mobile App Dev (Flutter) | DevOps Explorer</h3>
+<h1 align="center">Hi 👋, I'm Ayesha Munir</h1>
+<h3 align="center">🚀 Full Stack Developer | 📱 Flutter Enthusiast | ☁️ DevOps Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/ayesha942">
-    <img src="https://komarev.com/ghpvc/?username=ayesha942&label=Profile%20views&color=6f42c1&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/ayesha-munir-3b7614242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/ayesha-munir-3b7614242/">
-    <img src="https://img.shields.io/badge/-Ayesha%20Munir-blue?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/ayesha942" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@ayesha942-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
 ---
 
-### 💡 About Me
+### 🌟 About Me
 
-- 👩‍💻 Full Stack Developer with a love for clean code & modern UI  
-- 📱 Building cross-platform apps using **Flutter**  
-- 🌐 Crafting responsive web apps with **React**, **Node.js**, and **Firebase**  
-- ☁️ Currently exploring the world of **DevOps**, **CI/CD**, and **Cloud Infrastructure**
-- 🛠️ Strong believer in consistency, learning, and creative problem-solving  
-- 📫 Let's connect: **munirayesha009@gmail.com**
-
----
-
-### 🔧 Tech Stack
-
-#### 👩‍💻 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-#### 🧩 Frameworks & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-#### 🔧 Dev & Infra
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-#### 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- 🔭 I’m currently working on **Aamozish** – a language learning platform for Urdu speakers to learn Arabic and Persian.
+- 🌱 I’m learning **DevOps, CI/CD, Docker, Kubernetes, GitHub Actions**, and diving deep into **cloud-native development**.
+- 💬 Ask me about **Flutter, Firebase, Dart, Full Stack Web Dev, MongoDB, and API integration.**
+- 👩‍💻 I'm passionate about solving real-world problems through scalable code and clean UI/UX.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ayesha-munir-3b7614242/)
 
 ---
 
-### 🌱 Currently Exploring
-- CI/CD with GitHub Actions & Docker
-- App deployment on AWS / Firebase Hosting
-- Clean Architecture in Flutter
-- Test-Driven Development (TDD)
+### 🚀 Tech Stack & Tools
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### 🛠 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha942&show_icons=true&theme=gruvbox" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha942&theme=gruvbox" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha942&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha942&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
 
-### 🚀 Let's Connect
-
-<p align="center">
-  <a href="mailto:munirayesha009@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayesha-munir-3b7614242/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ayesha942"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+### 🎯 Currently Learning
+- 📚 DevOps: K8s, Helm, Argo CD, Istio, GitOps, GitHub Actions
+- 🛠 Advanced Flutter: Animations, Clean Architecture, Testing
+- 🌐 Full Stack MERN: MongoDB, Express, React, Node.js
 
 ---
 
-> *“Code with purpose. Build with passion.”*
+### 💬 Let's Connect!
+If you're working on exciting projects or just want to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ayesha-munir-3b7614242/) or check out my work on [GitHub](https://github.com/ayesha942)!
+
+---
+
+*Crafted with ❤️ by Yesh Munir*
