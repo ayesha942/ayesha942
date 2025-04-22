@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 
-Hi! I’m **Yesh Munir**, a passionate developer who loves building beautiful, meaningful, and scalable software. Whether it's a **cross-platform mobile app**, a full-blown **MERN stack web app**, or a **CI/CD pipeline in Kubernetes**, I'm always excited to bring ideas to life through code.
+Hi! I’m **Ayesh Munir**, a passionate developer who loves building beautiful, meaningful, and scalable software. Whether it's a **cross-platform mobile app**, a full-blown **MERN stack web app**, or a **CI/CD pipeline in Kubernetes**, I'm always excited to bring ideas to life through code.
 
 - 🚀 Final Year Project: **Aamozish** — A smart learning platform helping Urdu speakers learn Arabic & Persian.
 - 🌱 Currently leveling up in **DevOps, Docker, Kubernetes, ArgoCD, GitHub Actions**.
