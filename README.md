@@ -15,17 +15,17 @@
 
 ### 🌟 About Me
 
-Hi! I’m **Ayesh Munir**, a passionate developer who loves building beautiful, meaningful, and scalable software. Whether it's a **cross-platform mobile app**, a full-blown **MERN stack web app**, or a **CI/CD pipeline in Kubernetes**, I'm always excited to bring ideas to life through code.
+Hi! I’m **Ayesha Munir**, a passionate developer who loves building beautiful, meaningful, and scalable software. Whether it's a **cross‑platform mobile app**, a full‑blown **MERN‑stack web app**, or a **CI/CD pipeline in Kubernetes**, I'm always excited to bring ideas to life through code.
 
-- 🚀 Final Year Project: **Aamozish** — A smart learning platform helping Urdu speakers learn Arabic & Persian.
-- 🌱 Currently leveling up in **DevOps, Docker, Kubernetes, ArgoCD, GitHub Actions**.
-- 💡 Always experimenting, learning, and pushing my boundaries.
-- 🧠 Big believer in clean code, powerful UI/UX, and problem-solving with empathy.
-- 🎯 Goal: Become a DevOps-savvy Full Stack Flutter Engineer.
+- 🚀 Final Year Project: **Aamozish** — A smart learning platform helping Urdu speakers learn Arabic & Persian.  
+- 🌱 Currently leveling up in **DevOps, Docker, Kubernetes, Argo CD, GitHub Actions**.  
+- 💡 Always experimenting, learning, and pushing my boundaries.  
+- 🧠 Big believer in clean code, powerful UI/UX, and problem‑solving with empathy.  
+- 🎯 Goal: Become a DevOps‑savvy Full‑Stack Flutter Engineer.  
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack
 
 #### 💬 Languages
 <p align="left">
@@ -56,7 +56,7 @@ Hi! I’m **Ayesh Munir**, a passionate developer who loves building beautiful, 
 
 ---
 
-### 📈 GitHub Insights
+### 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayesha942&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
@@ -69,16 +69,33 @@ Hi! I’m **Ayesh Munir**, a passionate developer who loves building beautiful, 
 
 ---
 
-### 🌈 Currently Exploring
+### 🧩 Problem‑Solving on LeetCode
 
-- 🧱 **Microservices** with Service Mesh (Istio)
-- 🔄 **CI/CD Pipelines** with GitHub Actions + Argo CD
-- 📦 Helm, Kustomize & Advanced Kubernetes
-- 🧩 Real-time Flutter apps with Firebase
+<p align="center">
+  <a href="https://leetcode.com/u/i_ayeshaMunir/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-i__ayeshaMunir-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<!-- Optional stat card: uncomment if you want live stats -->
+<!--
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/i_ayeshaMunir?theme=dark&font=Karma&ext=activity" width="70%" />
+</p>
+-->
 
 ---
 
-### 💬 Let's Connect!
+### 🌈 Currently Exploring
+
+- 🧱 **Microservices** with Service Mesh (Istio)  
+- 🔄 **CI/CD Pipelines** with GitHub Actions + Argo CD  
+- 📦 Helm, Kustomize & Advanced Kubernetes  
+- 🧩 Real‑time Flutter apps with Firebase  
+
+---
+
+### 💬 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayesha-munir-3b7614242/" target="_blank">
@@ -91,4 +108,4 @@ Hi! I’m **Ayesh Munir**, a passionate developer who loves building beautiful, 
 
 ---
 
-<p align="center">💖 Built with passion & pixel perfection by <b>Yesh Munir</b> 💖</p>
+<p align="center">💖 Built with passion & pixel perfection by <b>Ayesha Munir</b> 💖</p>
